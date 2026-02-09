@@ -1,0 +1,154 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Gabriel Varela
+
+jobtitle: "Irsay Institute, University of Indiana-Bloomington, Post-Doctoral Fellow"
+address: "214 E Vermilya Ave, Bloomington"
+fontawesome: yes
+email: gavarela@iu.edu
+github: gabevar
+# twitter: stevenvmiller
+# osf: "Enter 5 digit osf string here"
+phone: "917-861-9198"
+web: gabrielvarela.com
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+## Employment
+
+*Irsay Institute, University of Indiana-Bloomington*, Post-Doctoral Fellow \hfill 2025-2027
+
+## Education
+
+*Duke University*, PhD, Sociology \hfill 2025
+
+*Duke University*, MA, Sociology \hfill 2019
+
+*Bowdoin College*, B.A, Sociology \hfill 2015
+
+## Research Interests
+
+Medical Sociology | Network Science | Computational Social Science
+
+## Publications
+
+### 2026
+
+Tom Wolff, **Gabriel Varela**, Jon Eastwood. 2026. "Balancing Accessibility and Familiarity with Technological Tools in the Introduction of Network Analysis to Undergraduates" *Teaching Sociology*.
+
+George Wolford, **Gabriel Varela**, Robert Freeland, Monica Harn. "Social Isolation or Autistic Homophily: An Exploration of the Social Networks of Autistic College Students" *Revise and Resubmit*
+
+### 2025
+
+**Gabriel Varela**. 2025. "Undiagnosed: Relational characteristics of mental health pre-diagnostic self-labeling." *Social Science & Medicine*. 369:117725
+
+Aidan Combs, **Gabriel Varela**, Dawn T. Robinson, Lynn Smith-Lovin, and Stephen Vaisey. 2025. "Studying Systematic Deviations from Cultural Consensus about Occupations: The Duality of Occupation Meanings and Americans’ Meaning Communities." *Social Networks*
+
+Dana K. Pasquale, Thomas Wolff, **Gabriel Varela**, Jimi Adams, Peter J. Mucha, Brea L Perry, Thomas W Valente, James Moody. 2025. Considerations for Social Networks and Health Data Sharing: An Overview. *Annals of Epidemiology*. 102:28–35
+
+### 2024
+
+Andrea Knittel, **Gabriel Varela**, Ella G Ferguson, Hannah Hulshul, Jamie B Jackson, James Moody, Adaora A Adimora. 2024. Network determinants of relationship influence on HIV prevention decision-making among people in the social networks of women who have experienced incarceration in the US. *PLoS One*. 19(10):e0312584
+
+### 2023
+
+Molly Copeland, Christina Kamis, **Gabriel Varela**. 2023. Pathways from peers to mental health: Adolescent networks, role attainment, and adult depressive symptoms. *Social Science & Medicine*. 324:115859
+
+Aidan Combs, Graham Tierney, Fatima Alqabandi, Devin Cornell, **Gabriel Varela**, Andrés Castro Araújo, Lisa P. Argyle, Christopher A. Bail & Alexander Volfovsky. 2023. Perceived gender and political persuasion: a social media field experiment during the 2020 US Democratic presidential primary election. *Scientific Reports*. 13(1):14051
+
+### 2022
+
+**Gabriel Varela**, Kendal Swanson, Dana K Pasquale, Manoj Mohanan, James W Moody. 2022. Visualizing COVID Restrictions: Activity Patterns Before, During, and After COVID-19 Lockdowns in Uttar Pradesh, India. *Socius*. 8:23780231221117962
+
+### In progress
+
+**Gabriel Varela**, David Eagle, Oliver Hess, and David King. "Malcontented ministers: Political mismatch and occupational distress among United Methodist Clergy."
+*Politics and Religion* *under review*
+
+**Gabriel Varela**. "Brokered Psychiatry: Core Networks and Psychiatric Self-Diagnosis."
+*Presented at SSS 2024, Sunbelt 2024, and ASA 2024*
+
+Tom Wolff, Jonathan H. Morgan, **Gabriel Varela**, Dana Pasquale, James W. Moody, Peter Mucha. "IDEANet: Integrating Data Exchange and Analysis for Networks."
+*Presented at Sunbelt 2023*
+
+**Gabriel Varela**, Rebecca Robbins. "Sleep Chronotype and Duration Clustering among College Students."
+
+## Teaching and Mentorship
+
+*Teaching assistant*, "Networks and Management", Duke University. \hfill Spring 2024 | Spring 2025
+
+*Finalist*, "Bass Connections Mentorship Awards", Duke University. \hfill April 2024
+
+*Teaching assistant*, "Politics & Polarization", Duke University. \hfill September 2022 - May 2023
+
+*Mentor*, "Mentor Matching Engine", ISTI. \hfill September 2020 - April 2021
+
+*Teaching assistant*, "Mapping Controversies", Sciences-Po Paris. \hfill October 2015 – April 2016
+
+## Talks
+
+### Organized
+
+Social Networks and Health, *Duke Network Analysis Center*. \hfill Spring 2024
+
+Social Networks and Health, *Duke Network Analysis Center*. \hfill Spring 2023
+
+Social Networks and Health, *Duke Network Analysis Center*. \hfill Spring 2022
+
+Computational Social-Science Speaker Series, *Duke Professional Development Grant*. \hfill Spring 2021 | Fall 2021
+
+### Presented
+
+Gathering and analyzing social networks in 2025: Network Canvas and IDEANet. *WIM* \hfill Fall 2025
+
+The Social Structure of a Schism *Sunbelt*. \hfill Summer 2025
+
+Brokered Psychiatry: Core networks and Psychiatric Self-Diagnosis, *Sunbelt*. \hfill Summer 2024
+
+Brokered Psychiatry: Core networks and Psychiatric Self-Diagnosis, *ASA*. \hfill Summer 2024
+
+Brokered Psychiatry: Core networks and Psychiatric Self-Diagnosis, *Sunbelt*. \hfill Summer 2024
+
+VaryCSS: Workshop on Diversity in Computational Social Science, *Cornell University*. \hfill Spring 2024
+
+Brokered Psychiatry: Core networks and Psychiatric Self-Diagnosis, *SSS*. \hfill Spring 2024
+
+Undiagnosed: Relational Characteristics of Disability Identification, *ASA*. \hfill Summer 2023
+
+IDEANet: Integrating Data Exchange and Analysis for Networks, *Sunbelt*. \hfill Summer 2023
+
+IDEANet: Integrating Data Exchange and Analysis for Networks, *Northwestern U*. \hfill Summer 2023
+
+Undiagnosed: Relational Characteristics of Disability Identification, *SSS*. \hfill Spring 2023
+
+VaryCSS: Introduction, *Howard University*. \hfill Summer 2022
+
+Collective Speech Among Addiction Treatment Organizations, *Duke University*. \hfill Spring 2021
+
+Collective Speech Among Addiction Treatment Organizations, *UC-Berkeley*. \hfill Fall 2021
+
+# Grants and Fellowships
+
+Aleane Webb Dissertation Research Fellowship \hfill Spring 2024
+
+Department of Sociology Research Grant \hfill Spring 2024
+
+Max Planck IMPRS-PHDS Fellow \hfill Fall 2023 - Fall 2025
+
+Professional Development Grant \hfill Spring 2022 - Fall 2022
+
+Professional Development Grant \hfill Spring 2021 - Fall 2021
+
+Summer Research Fellowship for First and Second Year Ph.D. Students \hfill Summer 2021
+
+Summer Research Fellowship for First and Second Year Ph.D. Students \hfill Summer 2020
