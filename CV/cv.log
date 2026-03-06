@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.9)  9 FEB 2026 13:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.9)  6 MAR 2026 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,15 +746,15 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 97E01A7976ECB39790DB75FA907C6C01;1512.
  ) 
 Here is how much of TeX's memory you used:
- 26363 strings out of 469453
- 480299 string characters out of 5467260
- 900195 words of memory out of 5000000
+ 26370 strings out of 469453
+ 480349 string characters out of 5467260
+ 901195 words of memory out of 5000000
  54311 multiletter control sequences out of 15000+600000
- 674661 words of font info for 253 fonts, out of 8000000 for 9000
+ 674930 words of font info for 258 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  117i,11n,121p,1014b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/gabe/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/gabe/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (3 pages, 127683 bytes).
+Output written on cv.pdf (3 pages, 127839 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams

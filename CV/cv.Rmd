@@ -4,7 +4,6 @@ geometry: margin=1in
 
 title: "CV"
 author: Gabriel Varela
-
 jobtitle: "Irsay Institute, University of Indiana-Bloomington, Post-Doctoral Fellow"
 address: "214 E Vermilya Ave, Bloomington"
 fontawesome: yes
@@ -46,7 +45,7 @@ Medical Sociology | Network Science | Computational Social Science
 
 Tom Wolff, **Gabriel Varela**, Jon Eastwood. 2026. "Balancing Accessibility and Familiarity with Technological Tools in the Introduction of Network Analysis to Undergraduates" *Teaching Sociology*.
 
-George Wolford, **Gabriel Varela**, Robert Freeland, Monica Harn. "Social Isolation or Autistic Homophily: An Exploration of the Social Networks of Autistic College Students" *Revise and Resubmit*
+George Wolford, **Gabriel Varela**, Robert Freeland, Monica Harn. "Social Isolation or Autistic Homophily: An Exploration of the Social Networks of Autistic College Students" *Autism: International Journal of Research and Practice*
 
 ### 2025
 
